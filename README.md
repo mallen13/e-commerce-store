@@ -17,6 +17,8 @@ React was used since it allows for fast modular development. It makes projects e
 
 As for state-management, the project did not contain a lot of components, so prop drilling was sufficient. 
 
+Prducts are currently fetched from a place-holder API called "Fake Store API".
+
 Styling was doine using Charka-UI. Althought the project is not as lightweight as some, the project will always be small enough that it won't make a noticable performance difference. Chakra is a React UI component library that is great for quickly creating complex components like modals, menus, alerts, toasts, and drawers. 
 
 ## Roadmap
