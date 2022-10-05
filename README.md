@@ -1,6 +1,6 @@
 # Bargain Barn E-Commerce Store
 
-Check it out at https://mallen13.github.io/e-commerce-frontend/
+Check it out at https://mallen13.github.io/e-commerce-store/
 
 ## About
 This app is a front-end e-commerce application created using React and Chakra-UI. First, users can view a grid of products, view a modal with product detials, then add the product to the cart. Once the cart drawer is loaded, product quantities can be changed and the user can navigate to the checkout page. The checkout page makes use of the react-hook-form library to collect and validate user inputs after submission. 
