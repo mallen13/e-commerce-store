@@ -75,7 +75,7 @@ const CartDrawer = ({
         {/* Footer */}
         <DrawerFooter flexDir='column'>
           <Divider m='2'/>
-
+   
           {/* Subtotal */}
           <HStack justify='space-between' w='100%' m='2'>
             <Heading size='med'>Subtotal:</Heading>
