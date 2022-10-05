@@ -1,22 +1,11 @@
 {
   "files": {
-    "main.js": "/star-wars-store/static/js/main.5f90dd84.js",
-    "static/media/rebel-transport.webp": "/star-wars-store/static/media/rebel-transport.fc93c99f72492dad7879.webp",
-    "static/media/executor.webp": "/star-wars-store/static/media/executor.56d4c9a8c2b0f6137468.webp",
-    "static/media/empire-logo.png": "/star-wars-store/static/media/empire-logo.c24fb8e5668b06e206a5.png",
-    "static/media/y-wing.webp": "/star-wars-store/static/media/y-wing.c5c08dfd567d2759bb71.webp",
-    "static/media/millenium-falcon.webp": "/star-wars-store/static/media/millenium-falcon.263f786082a6d732ade1.webp",
-    "static/media/death-star.webp": "/star-wars-store/static/media/death-star.83081fc19a5dc69e5e1c.webp",
-    "static/media/x-wing.webp": "/star-wars-store/static/media/x-wing.eda07cef33230a63c196.webp",
-    "static/media/cr90-corvette.webp": "/star-wars-store/static/media/cr90-corvette.6424eebf4b53e95378b3.webp",
-    "static/media/star-destroyer.webp": "/star-wars-store/static/media/star-destroyer.c14be8f711ee2eb2215c.webp",
-    "static/media/tie-fighter.webp": "/star-wars-store/static/media/tie-fighter.ced197873edbdc0b4ffe.webp",
-    "static/media/sentinel-landing-craft.webp": "/star-wars-store/static/media/sentinel-landing-craft.4de64999e8d75bf7e77c.webp",
-    "static/media/credit-symbol.webp": "/star-wars-store/static/media/credit-symbol.ec93086241e16f7b631d.webp",
-    "index.html": "/star-wars-store/index.html",
-    "main.5f90dd84.js.map": "/star-wars-store/static/js/main.5f90dd84.js.map"
+    "main.js": "/e-commerce-frontend/static/js/main.1976b7c3.js",
+    "static/media/logo.png": "/e-commerce-frontend/static/media/logo.ab4baf57ed6b5e02f9c5.png",
+    "index.html": "/e-commerce-frontend/index.html",
+    "main.1976b7c3.js.map": "/e-commerce-frontend/static/js/main.1976b7c3.js.map"
   },
   "entrypoints": [
-    "static/js/main.5f90dd84.js"
+    "static/js/main.1976b7c3.js"
   ]
 }
