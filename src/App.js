@@ -80,8 +80,8 @@ function App() {
         {/* Routes */}
         <Routes>
         <Route path='/' element={<ProductGrid modifyCart={modifyCart} products={products} />} />
-          <Route path='/e-commerce-app/' element={<ProductGrid modifyCart={modifyCart} products={products} />} />
-          <Route path='/e-commerce-app/checkout' element={
+          <Route path='/e-commerce-store/' element={<ProductGrid modifyCart={modifyCart} products={products} />} />
+          <Route path='/e-commerce-store/checkout' element={
             <CheckoutPage cart={cart} setCart={setCart} modifyCart={modifyCart} />
           } />
         </Routes>

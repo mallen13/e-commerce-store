@@ -53,7 +53,7 @@ const Header = ({openCart,cartCount}) => {
       >
 
         {/* Header Branding */}
-        <Link as={RouterLink} to='/e-commerce-app/' _hover={{textDecoration: 'none'}}>
+        <Link as={RouterLink} to='/e-commerce-store/' _hover={{textDecoration: 'none'}}>
           {/* Logo */}
           <HStack>
             <Image

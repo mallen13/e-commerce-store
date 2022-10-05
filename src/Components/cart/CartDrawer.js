@@ -36,7 +36,7 @@ const CartDrawer = ({
 
   //re-route and close drawer on proceed to checkout
   const handleRouteChange = () => {
-    navigate('/e-commerce-app/checkout');
+    navigate('/e-commerce-store/checkout');
     onClose()
   }
 
@@ -91,7 +91,7 @@ const CartDrawer = ({
           <Button 
             onClick={handleRouteChange} 
             ref={firstFocus} 
-            isDisabled={cart.subtotal > 0 && location.pathname !== '/e-commerce-app/checkout'  ? false : true}
+            isDisabled={cart.subtotal > 0 && location.pathname !== '/e-commerce-store/checkout'  ? false : true}
             colorScheme='blue'
             w={['100%', '300px']}
             m='2'

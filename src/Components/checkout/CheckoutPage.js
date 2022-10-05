@@ -64,7 +64,7 @@ const CheckoutPage = ({cart,modifyCart,setCart}) => {
   const startOver = () => {
     setCart({items: [], numItems: 0, subtotal: 0});
     localStorage.removeItem('cart');
-    navigate('/e-commerce-app');
+    navigate('/e-commerce-store');
   }
 
   return (
